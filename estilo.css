@@ -1,10 +1,14 @@
 .contenedor {
-    max-width: 1200px;
-
+   
+    margin-top: -20px;
     padding: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: rgb(168, 162, 157);
+
+    
+    
 }
 
 .titulo > h1 {
